@@ -1,6 +1,6 @@
 #include<iostream>
-using naqamespace std;
-void main
+using namespace std;
+void main()
 { 
     int num,sum;
     cout<<"enter num";
